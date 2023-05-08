@@ -1,0 +1,61 @@
+.basketPageTop{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}
+.adImage img{
+    width: 150%;
+    max-height: 40vh;
+    margin-top: 5vh;
+    
+}
+.adImage h1{
+    margin-top: 0.5rem;
+    text-align: left;
+    margin-left: 0.6rem;
+}
+.totalItems{
+    width: 25%;
+    height: 35vh;
+    border: 2px solid;
+    margin-top:10vh;
+    background-color: #f3f3f3;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-around;
+    border-radius: 0.5rem;
+}
+/* .basketPageBottom{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-height: fit-content;
+} */
+.subtotalItems{
+    padding-left: 4rem;
+    font-size: 25px;
+}
+.basketButton{
+    width: 60%;
+    margin-left: 4rem;
+    height: 5vh;
+    border: none;
+    display: flex;
+    text-decoration: none;
+    background-color: #e67a00;
+    justify-content: center;
+    align-items: center;
+}
+.basketButton:hover{
+    cursor: pointer;
+}
+.gift{
+    display: flex;
+    justify-content: left;
+    padding-left: 4rem;
+}
+.gift p{
+    padding-left: 1rem;
+    font-size: 18px;
+}

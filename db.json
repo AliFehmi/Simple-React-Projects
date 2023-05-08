@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Apple 2021 10.2-inch iPad (Wi-Fi, 64GB) - Space Gray (9th Generation)",
+      "imgUrl": "https://m.media-amazon.com/images/I/61NGnpjoRDL._AC_SL1500_.jpg",
+      "price": 266.31,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Amazon Basics Classic Puresoft Padded Mid-Back Office Computer Desk Chair with Armrest - Black",
+      "imgUrl": "https://m.media-amazon.com/images/I/71i08qnZeDL._AC_SL1500_.jpg",
+      "price": 102.14,
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "title": "Music Alley MA34-N Classical Junior Guitar",
+      "imgUrl": "https://m.media-amazon.com/images/I/81tQhEEtiEL._AC_SL1500_.jpg",
+      "price": 39.54,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Yamaha, YDP105 Arius Series Digital Console Piano with Bench, Black",
+      "imgUrl": "https://m.media-amazon.com/images/I/61pzls0oRHL._AC_SL1200_.jpg",
+      "price": 1099.99,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Amazon Basics High-Speed HDMI Cable (18Gbps, 4K/60Hz) - 10 Feet, Nylon-Braided",
+      "imgUrl": "https://m.media-amazon.com/images/I/61YaqGbQvjL._AC_SL1121_.jpg",
+      "price": 6.14,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "HOME VISION Tilt TV Wall Mount for Most 32-75 Inch TVs Universal Low Profile Fixed TV Bracket Max VESA 600x400mm Holds up to 165lb Wall Stand Fit 16”-18”-24” Studs Quick Release Lock TV Mount",
+      "imgUrl": "https://m.media-amazon.com/images/I/617Zt6xgpbL._AC_SL1500_.jpg",
+      "price": 29.99,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "SAMSUNG 85-inch Class QN900A Series - Neo QLED 8K Smart TV with Alexa Built-in (2021 Model) HW-Q950A 11.1.4ch Soundbar with Dolby Atmos/DTS:X Alexa Built in(2021), Black",
+      "imgUrl": "https://m.media-amazon.com/images/I/81Smb69jtWS._AC_SL1500_.jpg",
+      "price": 9857.99,
+      "rating": 5
+    }
+  ],
+  "accounts": {
+    "firstName": "Ali",
+    "lastName": "Yildiz",
+    "email": "alifehmi@sabanciuniv.edu",
+    "password": "q1w2e3r4t5"
+  },
+  "basketitems": [
+    {
+      "email": "okok@sabanciuniv.edu",
+      "title": "SAMSUNG 85-inch Class QN900A Series - Neo QLED 8K Smart TV with Alexa Built-in (2021 Model) HW-Q950A 11.1.4ch Soundbar with Dolby Atmos/DTS:X Alexa Built in(2021), Black",
+      "imgUrl": "https://m.media-amazon.com/images/I/81Smb69jtWS._AC_SL1500_.jpg",
+      "price": 9857.99,
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "email": "ali@gmail.com",
+      "title": "Amazon Basics High-Speed HDMI Cable (18Gbps, 4K/60Hz) - 10 Feet, Nylon-Braided",
+      "imgUrl": "https://m.media-amazon.com/images/I/61YaqGbQvjL._AC_SL1121_.jpg",
+      "price": 6.14,
+      "rating": 4,
+      "id": "2ac2a75f-1315-41a4-8681-3846fde04efb"
+    },
+    {
+      "email": "ali@gmail.com",
+      "title": "Amazon Basics High-Speed HDMI Cable (18Gbps, 4K/60Hz) - 10 Feet, Nylon-Braided",
+      "imgUrl": "https://m.media-amazon.com/images/I/61YaqGbQvjL._AC_SL1121_.jpg",
+      "price": 6.14,
+      "rating": 4,
+      "id": "4e94ba69-5493-49d7-8485-89d68061c026"
+    },
+    {
+      "email": "ali@gmail.com",
+      "title": "Yamaha, YDP105 Arius Series Digital Console Piano with Bench, Black",
+      "imgUrl": "https://m.media-amazon.com/images/I/61pzls0oRHL._AC_SL1200_.jpg",
+      "price": 1099.99,
+      "rating": 5,
+      "id": "6478b189-6b10-487f-bee1-1b9e6550a54e"
+    },
+    {
+      "email": "ali@gmail.com",
+      "title": "HOME VISION Tilt TV Wall Mount for Most 32-75 Inch TVs Universal Low Profile Fixed TV Bracket Max VESA 600x400mm Holds up to 165lb Wall Stand Fit 16”-18”-24” Studs Quick Release Lock TV Mount",
+      "imgUrl": "https://m.media-amazon.com/images/I/617Zt6xgpbL._AC_SL1500_.jpg",
+      "price": 29.99,
+      "rating": 4,
+      "id": "ccecc5f9-2c7e-4368-941b-2a52a73f5e56"
+    }
+  ]
+}
